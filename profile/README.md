@@ -10,4 +10,3 @@ Reunião de links úteis para uso comum na empresa:
 - [Site da Empresa](https://www.dataintegra.com.br/)
 - [Padrão de uso do GitHub adotado pela empresa](https://github.com/DataIntegraTeam/def-padraogit-github-dataintegra)
 - [Template de Projeto Typescript](https://github.com/DataIntegraTeam/def-aplicacaopadraots-typescript-dataintegra)
-- [Acesso ao Discord](https://discord.gg/S5sRsWYKBF)
